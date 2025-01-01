@@ -1,0 +1,1 @@
+# geometri-hesap-makinesi
